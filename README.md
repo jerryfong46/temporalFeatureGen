@@ -23,7 +23,7 @@ To install the package, clone the repository and run:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/temporal-feature-engineering.git
+git clone https://github.com/jerryfong46/temporal-feature-engineering.git
 cd temporal-feature-engineering
 pip install .
 
